@@ -1,7 +1,7 @@
 # Lab7_Hotel_management
 Đinh Mạnh Cường - 21001535
-Goals:
 
+Goals:
 Quản lý Phòng và Khách Sạn (Manager):
 Objective: Tạo một hệ thống quản lý thông tin phòng và khách sạn hiệu quả.
 Key Results:
@@ -24,6 +24,7 @@ Objective: Đơn giản hóa quá trình đặt phòng và giao dịch.
 Key Results:
 Đặt phòng và hủy phòng dễ dàng, linh hoạt và nhanh chóng.
 Trải nghiệm check-in, check-out và thanh toán mà không gặp khó khăn.
+
 
 Business Objectives:
 1.Nâng cao Năng suất Quản lý (Manager):
