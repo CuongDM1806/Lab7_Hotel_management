@@ -2,11 +2,13 @@
 Đinh Mạnh Cường - 21001535
 
 Goals:
+
 Quản lý Phòng và Khách Sạn (Manager):
 Objective: Tạo một hệ thống quản lý thông tin phòng và khách sạn hiệu quả.
 Key Results:
 Phân loại và cập nhật thông tin chi tiết về mỗi phòng.
 Đảm bảo sẵn sàng thông tin về tình trạng phòng và khả dụng.
+
 2.Nhân viên Bán hàng (Seller):
 Objective: Tối ưu hóa quá trình giao dịch với khách hàng qua điện thoại.
 Key Results:
@@ -27,17 +29,20 @@ Trải nghiệm check-in, check-out và thanh toán mà không gặp khó khăn.
 
 
 Business Objectives:
+
 1.Nâng cao Năng suất Quản lý (Manager):
 Tăng cường khả năng quản lý thông tin và tạo báo cáo.
 Giảm thời gian tìm kiếm thông tin về phòng và khách sạn.
 Tạo ra các báo cáo chất lượng và chi tiết.
 Giúp kiểm tra doanh thu, lượt khách nhằm rút ra chiến lược thu hút nhiều khách hơn trong tương lai
 
+
 2.Tối ưu hóa Giao tiếp Bán hàng (Saller):
 Objective: Cải thiện khả năng giao tiếp và xử lý đặt chỗ qua điện thoại.
 Key Results:
 Giảm tỷ lệ lỗi trong quá trình ghi lại thông tin đặt chỗ và hủy đặt chỗ.
 Tăng cường hiểu biết về các loại phòng và dịch vụ.
+
 
 3.Tăng cường Trải nghiệm Tiếp tân (Receptionist):
 Objective: Tạo ra một trải nghiệm tiếp tân tích cực cho khách hàng.
